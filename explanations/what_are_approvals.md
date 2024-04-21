@@ -32,5 +32,5 @@ In order to use Approval Tests, the user needs to:
 
 This setup is useful because it shortens feedback loops, saving developers time by only highlighting what has been altered rather than requiring them to parse through their entire output to see what effect their changes had.
 
-[Here is a minimal example](/docs/tutorial/minimal-example.md)
+[Here is a minimal example in python](https://github.com/approvals/ApprovalTests.Python/blob/main/docs/tutorial/minimal-example.md)
 
