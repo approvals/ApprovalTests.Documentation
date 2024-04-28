@@ -63,6 +63,6 @@ I have found executing reporters to be useful for:
 * SQL
 * REST API calls
 * Photos of rendered results (e.g.: this is what the page looks like on an iPhone 8, iPhone 13 Pro, and Android Galaxy)
-* [Capture .received. files from CI - Java]([how_to/CaptureFilesFromCI.md](https://github.com/approvals/ApprovalTests.Java/blob/master/approvaltests/docs/how_to/CaptureFilesFromCI.md))
+* [Capture .received. files from CI - Java](https://github.com/approvals/ApprovalTests.Java/blob/master/approvaltests/docs/how_to/CaptureFilesFromCI.md)
 
 For an example in Java please see [ExecutableCommands](https://github.com/approvals/ApprovalTests.Java/blob/master/approvaltests/docs/how_to/PatternsForTestingDataAccessAndRendering.md).
