@@ -46,7 +46,7 @@ Namer & Contents & Extension --> Writer --> received_file & approved_file
 ## Comparator
 ```mermaid
 flowchart
-received_file & approved_file & reporter --> comparator --> nothing_exception & reporter_called_on_fail
+received_file & approved_file & reporter --> comparator --> result["Test Result\nnothing or throws exception"] & reporter_call["Reporter.report()\nOnly on test failiure"]
 ```
 
 Line endings! - still a thing
