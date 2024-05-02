@@ -15,9 +15,9 @@ options --> scrubber
 options contains namer
 
 ## Namer
-approval file - guilded_rose_test.approval_test.approved.txt  
-received file - guilded_rose_test.approval_test.received.txt  
-general - file_name.test_name.approved.extension
+approval file - `guilded_rose_test.approval_test.approved.txt`  
+received file - `guilded_rose_test.approval_test.received.txt`  
+general pattern  - `file_name.test_name.approved.extension`
 
 (access name of test in exunit?)
 
